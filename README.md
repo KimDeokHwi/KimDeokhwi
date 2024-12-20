@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/Jupyter-20232a.svg?style=for-the-badge&logo=Jupyter&logoColor=F37626" />
 <img src="https://img.shields.io/badge/Pytorch-20232a.svg?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C" />
 <img src="https://img.shields.io/badge/OpenCV-20232a.svg?style=for-the-badge&logo=OpenCV&logoColor=5C3EE8" />
+<br>
+
 <img src="https://img.shields.io/badge/Mediapipe-20232a.svg?style=for-the-badge&logo=Mediapipe&logoColor=0097A7" />
 <img src="https://img.shields.io/badge/Numpy-20232a.svg?style=for-the-badge&logo=Numpy&logoColor=013243" />
 <img src="https://img.shields.io/badge/Pandas-20232a.svg?style=for-the-badge&logo=Pandas&logoColor=150458" />
