@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Mediapipe-20232a.svg?style=for-the-badge&logo=Mediapipe&logoColor=0097A7" />
 <img src="https://img.shields.io/badge/Numpy-20232a.svg?style=for-the-badge&logo=Numpy&logoColor=013243" />
 <img src="https://img.shields.io/badge/Pandas-20232a.svg?style=for-the-badge&logo=Pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Ultralytics-20232a.svg?style=for-the-badge&logo=Ultralytics&logoColor=150458" />
 </div>
 
 <br>
